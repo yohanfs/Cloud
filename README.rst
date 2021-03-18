@@ -8,7 +8,7 @@ Cloud Storage
 Self-hosted cloud 
 ---------------------------------------------------------------------------------
 
-- `nextcloud <https://nextcloud.com/>`_
+- `nextcloud <https://nextcloud.com/>`_ | `install via docker <nextcloud/README.rst>`_
 - `ownCloud <https://owncloud.com/>`_
 
 Standard
